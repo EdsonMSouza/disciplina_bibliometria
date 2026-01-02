@@ -5,9 +5,9 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-> **UNIVERSIDADE NOVE DE JULHO - UNINOVE** 
-> **Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI)** 
-> **Programa de Pós-Graduação em Gestão dde Projetos (PPGP)** 
+> **UNIVERSIDADE NOVE DE JULHO - UNINOVE** <br>
+> **Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI)** <br>
+> **Programa de Pós-Graduação em Gestão de Projetos (PPGP)** <br>
 > **Carga Horária:** 45 horas (15 aulas) | **Período:** Semestral
 
 ## 📌 Sobre a Disciplina
@@ -76,3 +76,28 @@ O curso está alinhado aos **ODS 4 (Educação de Qualidade)**, **ODS 9 (Inovaç
 ## Como Citar
 
 SOUZA, Edson Melo de. Inteligência Artificial Generativa Aplicada na Análise da Produção Científica. São Paulo: Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI) e Programa de Pós-Graduação em Informática e Gestão de Projetos (PPGP), Universidade Nove de Julho (UNINOVE), 2026. Disponível em: https://github.com/EdsonMSouza/disciplina_bibliometria.
+
+Ou em formato BibTeX para LaTeX:
+
+```latex
+@misc{souza2026iagen,
+  author       = {Souza, Edson Melo de},
+  title        = {Inteligência Artificial Generativa Aplicada na Análise da Produção Científica},
+  year         = {2026},
+  publisher    = {Universidade Nove de Julho (UNINOVE)},
+  howpublished = {Repositório de Dados e Plano de Ensino},
+  note         = {Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI) e Programa de Pós-Graduação em Gestãod e Projetos (PPGP)},
+  url          = {https://github.com/EdsonMSouza/disciplina_bibliometria}
+}
+```
+
+## Licença
+
+Este obra está licenciado com uma Licença
+[Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
