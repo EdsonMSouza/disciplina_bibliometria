@@ -1,4 +1,4 @@
-# Inteligência Artificial Generativa Aplicada na Análise da Produção Científica 🔬🤖
+# Inteligência Artificial Generativa Aplicada na Análise da Produção Científica
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
@@ -86,7 +86,7 @@ Ou em formato BibTeX para LaTeX:
   year         = {2026},
   publisher    = {Universidade Nove de Julho (UNINOVE)},
   howpublished = {Repositório de Dados e Plano de Ensino},
-  note         = {Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI) e Programa de Pós-Graduação em Gestãod e Projetos (PPGP)},
+  note         = {Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI) e  Gestão de Projetos (PPGP)},
   url          = {https://github.com/EdsonMSouza/disciplina_bibliometria}
 }
 ```
