@@ -5,7 +5,10 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-> **Programa de Pós-Graduação em Informática e Gestão do Conhecimento** > **Carga Horária:** 45 horas (15 aulas) | **Período:** Semestral
+> **UNIVERSIDADE NOVE DE JULHO - UNINOVE** 
+> **Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI)** 
+> **Programa de Pós-Graduação em Gestão dde Projetos (PPGP)** 
+> **Carga Horária:** 45 horas (15 aulas) | **Período:** Semestral
 
 ## 📌 Sobre a Disciplina
 
@@ -44,7 +47,7 @@ O curso está alinhado aos **ODS 4 (Educação de Qualidade)**, **ODS 9 (Inovaç
 |:----:|------|-----------------------|
 | 01 | Introdução aos Estudos Métricos (EMIC) | Google Scholar |
 | 02 | Leis da Bibliometria (Bradford, Lotka, Zipf) | Python (Pandas) |
-| 03 | Fontes e APIs de Dados (Scopus, WoS, OpenAlex) |
+| 03 | Fontes e APIs de Dados (Scopus, WoS, OpenAlex) | Scopus, WoS, OpenAlex |
 | 04 | Limpeza e Normalização de Metadados | OpenRefine, RegEx |
 | 05 | Indicadores de Produção, Citação e Colaboração | Matplotlib, Seaborn |
 | 06 | Mapeamento da Ciência com IA e Redes | Litmaps, IAGen |
