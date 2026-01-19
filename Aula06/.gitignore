@@ -1,0 +1,16 @@
+# Arquivos auxiliares e de log do LaTeX
+*.nav
+*.snm
+*.bbl
+*.blg
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.gz
+*.png
+*.jpg
+*.tex
+*.bib
