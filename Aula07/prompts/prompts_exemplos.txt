@@ -1,0 +1,7 @@
+1. "Analise os resumos (abstracts) presentes na fonte e crie um resumo técnico explicando como a inteligência artificial está sendo mencionada como ferramenta metodológica. Liste as principais vantagens citadas pelos autores ao utilizar processamento de linguagem natural para organizar este campo de estudo."
+
+2. "Identifique os 'Research Gaps' (lacunas de pesquisa). Quais termos ou conceitos aparecem com frequência nos artigos mais recentes, mas ainda possuem poucas citações? Liste 5 temas emergentes que possuem alto potencial de crescimento para os próximos dois anos."
+
+3. "Avalie criticamente os clusters de palavras-chave presentes nos documentos. Existe algum termo que parece estar fora de contexto ou que é ambíguo? Explique a relação lógica que conecta os três principais clusters identificados na fonte."
+
+4. "Sintetize os 5 principais aprendizados que esta base de dados oferece para o futuro da ciência. Redija uma conclusão em tom inspirador, destacando como a união entre a precisão métrica e a interpretação humana via IA pode acelerar a descoberta científica."

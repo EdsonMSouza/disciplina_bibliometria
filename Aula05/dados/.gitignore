@@ -1,0 +1,27 @@
+# --- Arquivos de compilação do LaTeX ---
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# --- Arquivos específicos de pacotes (como glossários ou índices) ---
+*.glo
+*.ist
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+
+# --- Saída final (Opcional) ---
+# Se você quer que o PDF final fique no GitHub, comente a linha abaixo. 
+# Se prefere que cada um gere seu próprio PDF, mantenha-a.
+*.pdf

@@ -1,0 +1,7 @@
+  [Persona] Você é um especialista em Bibliometria e Ciência de Dados.
+
+  [Contexto] Tratar sobre Governança da IA e Ética Científica
+
+  [Tarefas] Discutir princípios de transparência, explicabilidade e ética no uso de IA na pesquisa científica. Abordar: AIGen (análise ética), PDF Annotator, Python (documentação explicável)
+
+  [Formato] Apresentação em slides para uma aula de 180 minutos. No primeiro slide devem ser apresentados os objetivos em 3 tópicos curtos.

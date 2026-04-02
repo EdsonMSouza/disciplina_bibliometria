@@ -1,0 +1,11 @@
+1. "Atue como um historiador da ciência e especialista em métricas. Com base nos documentos fornecidos, descreva como a importância dos temas evoluiu de uma simples contagem de frequência para conexões conceituais mais profundas. Identifique nos textos quais foram os marcos de mudança na terminologia utilizada ao longo das décadas."
+
+2. "Analise os resumos (abstracts) presentes na fonte e crie um resumo técnico explicando como a inteligência artificial está sendo mencionada como ferramenta metodológica. Liste as principais vantagens citadas pelos autores ao utilizar processamento de linguagem natural para organizar este campo de estudo."
+
+3. "Identifique os 'Research Gaps' (lacunas de pesquisa). Quais termos ou conceitos aparecem com frequência nos artigos mais recentes, mas ainda possuem poucas citações? Liste 5 temas emergentes que possuem alto potencial de crescimento para os próximos dois anos."
+
+4. "Crie um guia de perguntas (FAQ) que um pesquisador iniciante deve fazer a esta base de dados para obter insights qualitativos. Formule as perguntas de modo que a IA precise cruzar dados de diferentes autores para responder."
+
+5. "Avalie criticamente os clusters de palavras-chave presentes nos documentos. Existe algum termo que parece estar fora de contexto ou que é ambíguo? Explique a relação lógica que conecta os três principais clusters identificados na fonte."
+
+6. "Sintetize os 5 principais aprendizados que esta base de dados oferece para o futuro da ciência. Redija uma conclusão em tom inspirador, destacando como a união entre a precisão métrica e a interpretação humana via IA pode acelerar a descoberta científica."
