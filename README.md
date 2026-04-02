@@ -8,6 +8,7 @@
 > **UNIVERSIDADE NOVE DE JULHO - UNINOVE** <br>
 > **Programa de Pós-Graduação em Informática e Gestão do Conhecimento (PPGI)** <br>
 > **Programa de Pós-Graduação em Gestão de Projetos (PPGP)** <br>
+  **Prof. Dr. Edson Melo de Souza** <br>
 
 ## 📌 Sobre a Disciplina
 
