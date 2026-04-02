@@ -78,7 +78,7 @@ Ou em formato BibTeX para LaTeX:
 
 ```latex
 @misc{souza2026iagen,
-  author       = {de Souza, E. M.},
+  author       = {DE SOUZA, E. M.},
   title        = {Inteligência Artificial Generativa Aplicada na Análise da Produção Científica},
   year         = {2026},
   publisher    = {Universidade Nove de Julho (UNINOVE)},
